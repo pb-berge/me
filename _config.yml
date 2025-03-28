@@ -242,7 +242,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "/_portfolio"
+      path: ""
       type: pages
     values:
       layout: single
@@ -267,7 +267,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "/_portfolio"
       type: portfolio
     values:
       layout: single
