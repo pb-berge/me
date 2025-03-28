@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pb-2024.png"
+  avatar           : "images/pb-2024.jpg"
   name             : "Dr. PB Berge"
   pronouns         : "they/her"
   bio              : "Assistant Professor of Experimental Game Design"
